@@ -1,0 +1,23 @@
+----------------
+VERBOS HTTP
+----------------
+
+GET - Obtener Datos
+POST - Enviar Datos al Servidor / Creacion
+PUT / PATCH - Actualizar (PUT es el recomendado)
+DELETE - Eliminar
+
+EndPoints
+Una REST API cuenta con EndPoints(O URLs) para hacer operaciones CRUD
+
+- Listar todos los clientes   GET  /clientes
+- Obtener un solo cliente     GET  /cliente/10
+- Crear un nuevo cliente      POST  /clientes
+- Editar un cliente           PUT /cliente/3
+- Borrar un cliente           DELETE /cliente/8
+
+- Para instalar JSonServer - npm install -g json-server
+
+
+
+

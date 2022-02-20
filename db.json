@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan pablo",
+      "empresa": "codigo con juan",
+      "email": "codigo@gmail.com",
+      "telefono": "85986532",
+      "notas": "profesor de udemy",
+      "id": 8
+    },
+    {
+      "nombre": "Isaac Martinez Rizo",
+      "empresa": "Islinux",
+      "email": "islinux@gmail.com",
+      "telefono": "85986532",
+      "notas": "estudia react js",
+      "id": 9
+    }
+  ]
+}
